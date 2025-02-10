@@ -1,0 +1,56 @@
+[
+    {
+        "name": "CAMISETA ALGODÓN",
+        "price": 15.95,
+        "coin": "EUR",
+        "image": "/assets/img/camiseta.jpg"
+    },
+    {
+        "name": "JERSEY ALGODÓN",
+        "price": 24.95,
+        "coin": "EUR",
+        "image": "/assets/img/jersey.jpg"
+    },
+    {
+        "name": "CHAQUETA",
+        "price": 99.95,
+        "coin": "EUR",
+        "image": "/assets/img/chaqueta.jpg"
+    },
+    {
+        "name": "VESTIDO",
+        "price": 85.95,
+        "coin": "EUR",
+        "image": "/assets/img/vestido.jpg"
+    },
+    {
+        "name": "VAQUERO",
+        "price": 24.95,
+        "coin": "EUR",
+        "image": "/assets/img/vaquero.jpg"
+    },
+    {
+        "name": "TOP",
+        "price": 19.95,
+        "coin": "EUR",
+        "image": "/assets/img/top.jpg"
+    },
+    {
+        "name": "CAMISA",
+        "price": 24.95,
+        "coin": "EUR",
+        "image": "/assets/img/camisa.jpg"
+    },
+    {
+        "name": "FALDA",
+        "price": 24.95,
+        "coin": "EUR",
+        "image": "/assets/img/falda.jpg"
+    },
+    {
+        "name": "SUDADERA",
+        "price": 24.95,
+        "coin": "EUR",
+        "image": "/assets/img/sudadera.jpg"
+    }
+]
